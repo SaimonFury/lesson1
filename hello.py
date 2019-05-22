@@ -15,3 +15,5 @@ print('Привет программист!')
 x = 'Sergey'
 print(x)
 
+y = 'Duplich'
+print(y)
